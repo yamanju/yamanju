@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yaman_dev" target="blank"><img src="https://img.shields.io/twitter/follow/yaman_dev?logo=twitter&style=for-the-badge" alt="yaman_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Numpy, Pandas, Seeborn**
+- 🌱 I’m currently learning **Numpy, Pandas, Seeborn, Plotly**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gurdal-yaman/](https://www.linkedin.com/in/gurdal-yaman/)
 
